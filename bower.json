@@ -1,9 +1,13 @@
 {
-  "name": "angularPackage",
+  "name": "angular-package",
   "version": "1.5.5",
   "license": "MIT",
-  "main": "./ng/angular.js",
+  "main": "ng/angular.js",
   "ignore": [],
   "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:Andrii_zp/angular-package.git"
   }
 }
