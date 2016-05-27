@@ -5,9 +5,5 @@
   "main": "ng/angular.js",
   "ignore": [],
   "dependencies": {
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.com:Andrii_zp/angular-package.git"
   }
 }
