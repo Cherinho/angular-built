@@ -1,0 +1,9 @@
+{
+  "name": "angular-package",
+  "version": "1.5.5",
+  "license": "MIT",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
