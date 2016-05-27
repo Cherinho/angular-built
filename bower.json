@@ -2,7 +2,6 @@
   "name": "angular-package",
   "version": "1.5.5",
   "license": "MIT",
-  "main": "ng/angular.js",
   "ignore": [],
   "dependencies": {
   }
